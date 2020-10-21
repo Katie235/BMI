@@ -11,7 +11,7 @@ namespace BMI
         static void Main(string[] args)
         {
             BMIindex();//calls the BMIIndex method
-
+            // new comment
         }
 
         static void BMIindex()
