@@ -1,0 +1,7 @@
+C:\Users\katie\OneDrive\Desktop\BMI\bin\Debug\BMI.exe.config
+C:\Users\katie\OneDrive\Desktop\BMI\bin\Debug\BMI.exe
+C:\Users\katie\OneDrive\Desktop\BMI\bin\Debug\BMI.pdb
+C:\Users\katie\OneDrive\Desktop\BMI\obj\Debug\BMI.csprojAssemblyReference.cache
+C:\Users\katie\OneDrive\Desktop\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\katie\OneDrive\Desktop\BMI\obj\Debug\BMI.exe
+C:\Users\katie\OneDrive\Desktop\BMI\obj\Debug\BMI.pdb
